@@ -20,8 +20,6 @@ git submodule update --init --recursive
 ## Componentes e Módulos utilizando
 Caso algum produto use algum módulo, atualizar aqui para sabermos quando necessário transferir para o Asteroid.
 
-<br>
-
 ### Componente 1
 - [ ] Vendas
 - [x] CRM
